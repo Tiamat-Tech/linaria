@@ -1,5 +1,16 @@
 # Change Log
 
+## 7.0.3
+
+### Patch Changes
+
+- Updated dependencies [45539fd0]
+- Updated dependencies [77647195]
+- Updated dependencies [be435e47]
+- Updated dependencies [74a417b2]
+- Updated dependencies [63840d6b]
+  - @linaria/react@8.1.0
+
 ## 7.0.2
 
 ### Patch Changes
