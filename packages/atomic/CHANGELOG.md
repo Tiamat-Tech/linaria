@@ -1,5 +1,16 @@
 # Change Log
 
+## 8.1.2
+
+### Patch Changes
+
+- 0ddc4d6b: Declare built-in WyW semantics for the `css` and `styled` processors so static processor values can be resolved without evaluating their modules. Atomic `styled` uses the same target semantics, while atomic `css` keeps its post-extraction JS contract.
+- dcc996a4: Update WyW dependencies to 2.4.0.
+- Updated dependencies [0ddc4d6b]
+- Updated dependencies [dcc996a4]
+  - @linaria/core@8.1.2
+  - @linaria/react@8.1.2
+
 ## 8.1.1
 
 ### Patch Changes
